@@ -47,10 +47,10 @@ I'm a Full Stack Developer and recent Computer Science graduate from the Univers
 
 ### 🔧 Current Projects
 
-#### 🧳 [VisaSodhara](https://github.com/harshabana/VisaSodhara)
+#### 🧳 [VisaSodhara](https://github.com/Naraveni/IntStudents-Backend)
 A full-stack platform for Indian international students — offering centralized access to immigration resources, academic workflows, and institutional support.
 
-#### 🤝 ProjectCollab ()
+#### 🤝 [ProjectCollab] (https://github.com/Naraveni/project-buddy)
 A collaboration-focused platform helping developers find contributors for their side projects and open-source work. Build together, better.
 
 ---
