@@ -50,7 +50,7 @@ I'm a Full Stack Developer and recent Computer Science graduate from the Univers
 #### 🧳 [VisaSodhara](https://github.com/harshabana/VisaSodhara)
 A full-stack platform for Indian international students — offering centralized access to immigration resources, academic workflows, and institutional support.
 
-#### 🤝 ProjectCollab (Coming Soon)
+#### 🤝 ProjectCollab ()
 A collaboration-focused platform helping developers find contributors for their side projects and open-source work. Build together, better.
 
 ---
