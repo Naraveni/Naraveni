@@ -24,26 +24,46 @@ I'm a Full Stack Developer and recent Computer Science graduate from the Univers
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-`Ruby` `JavaScript` `TypeScript` `Python` `C/C++` `SQL` `HTML5` `CSS3`
+#### 👨‍💻 Languages
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frontend:**  
-`React.js` `Next.js` `Tailwind CSS` `Redux` `DOM Manipulation`
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend:**  
-`Ruby on Rails` `RESTful APIs` `JWT Auth` `Server-Side Rendering`
+#### 🔧 Backend
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![SSR](https://img.shields.io/badge/SSR-666666?style=for-the-badge)
 
-**Databases:**  
-`PostgreSQL` | `Redis`
+#### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Testing & QA:**  
-`RSpec` `Capybara` `Postman` `TDD`
+#### 🧪 Testing
+![RSpec](https://img.shields.io/badge/RSpec-B31515?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Capybara](https://img.shields.io/badge/Capybara-888888?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**DevOps & Tools:**  
-`Git & GitHub` `Supabase` `GitHub Actions` `AWS (EC2, S3, IAM)`  
-`JIRA` `Docker` (basic) `VS Code`
+#### ☁️ DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
 ### 🔧 Current Projects
 
@@ -83,9 +103,9 @@ GPA: 3.87 | Full Scholarship | Best Academic Performance
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshabana&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naraveni&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshabana&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naraveni&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -102,4 +122,3 @@ If you're hiring or know someone who is, feel free to [email me](mailto:harshaem
 </p>
 
 ---
-
