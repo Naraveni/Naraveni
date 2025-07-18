@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:harshaemployment@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/harsha-b-83bab319b/">🔗 LinkedIn</a> •
-  <a href="https://github.com/harshabana">💻 GitHub</a>
+  <a href="https://github.com/Naraveni">💻 GitHub</a>
 </p>
 
 ---
