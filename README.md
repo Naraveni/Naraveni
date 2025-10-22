@@ -102,7 +102,7 @@ Full-stack app using **Next.js** + **Supabase** for real-time project collaborat
 **💎 [Open Source — Ruby for Good](https://rubyforgood.org/)**  
 Contributed to nonprofit Rails projects, improving volunteer management, inventory tracking, and pet rescue systems.
 
-**🧩 [HighlightCode — VS Code Extension] (https://marketplace.visualstudio.com/items?itemName=Harshabana.highlight-code)**  
+**🧩 [HighlightCode — VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Harshabana.highlight-code)**  
 Developed a syntax-aware color highlighting extension to improve code readability and live presentation clarity.
 
 ---
