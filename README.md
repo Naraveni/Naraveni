@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:harshaemployment@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/harsha-b-83bab319b/">🔗 LinkedIn</a> •
+  <a href="mailto:harshaemployment@gmail.com">📧 Email</a> -
+  <a href="https://www.linkedin.com/in/harsha-b-83bab319b/">🔗 LinkedIn</a> -
   <a href="https://github.com/Naraveni">💻 GitHub</a>
 </p>
 
@@ -69,25 +69,55 @@ Currently pursuing my **MS in Computer Science** at the **University of New Have
 
 ### 💼 Professional Experience
 
-**💻 Full Stack Developer — Zaggle Prepaid Ocean Services Pvt Ltd (Jan 2021 – Aug 2023, Hyderabad, India)**  
-- Designed and developed scalable applications using **Ruby on Rails**, **React.js**, **Redux**, and **TypeScript**, improving frontend load times by 30%.  
-- Integrated RESTful APIs and microservices handling 10K+ daily transactions.  
-- Implemented **JWT authentication**, **session management**, and **role-based access control** per OWASP guidelines.  
-- Collaborated with cross-functional teams to deliver secure, user-focused business systems across HR, Finance, and Procurement.  
-- Conducted design reviews, system testing, and deployment across full SDLC cycles.  
-- Supported integration and regression testing using **RSpec** and **Capybara**.  
-- Enhanced business continuity by resolving production issues efficiently and improving stability.  
+**🎓 Web Developer — University of New Haven (Aug 2024 – May 2025, CT, USA)**  
+- Supported development of course applications and tools for Algorithms, Databases, and Web Development programs.
+-	Guided 20+ capstone teams through planning, version control, UI implementation, deployment, and documentation.
+-	Built backend logic in Django an d Java while supporting front-end components using JavaScript and React.
+-	Designed SQL schemas and optimized queries to improve performance and reduce latency in student submissions.
+-	Conducted workshops on Git workflows, debugging patterns, secure coding, and CI/CD basics.
+-	Created reusable project templates and starter kits that standardized student onboarding.
+-	Helped students debug complex issues in algorithms, data structures, and web application logic.
+-	Built small-scale internal tools for faculty using Python, SQL, and REST API integrations.
+-	Assisted students with cloud deployments, improving their understanding of real-world environments.
+-	Wrote documentation covering engineering best practices, testing approaches, and SDLC guidelines.
+-	Collaborated with professors to refine project rubrics and technical expectations.
+-	Supported classroom labs by reviewing designs, API structures, and frontend components.
+<img width="468" height="244" alt="image" src="https://github.com/user-attachments/assets/2ea2178d-68fe-4c1a-b2b0-d91bb50a2afe" />
 
-**🎓 Web Developer / Teaching Assistant — University of New Haven (Jun 2024 – May 2025, CT, USA)**  
-- Mentored 80+ students in **Algorithms**, **Web Development**, and **Database Systems**.  
-- Guided 20+ capstone projects, emphasizing design patterns, debugging, and software architecture.  
-- Facilitated workshops on **SDLC**, **version control (Git)**, and **secure coding**.  
-- Improved student project success rates by 30% through hands-on mentoring and peer code reviews.  
+**💻 Full Stack Developer — Zaggle Prepaid Ocean Services Pvt Ltd (Feb 2022 – Aug 2023, Hyderabad, India)**  
+- Built secure backend services using Java Spring Boot, Ruby on Rails, Node.js, and PostgreSQL for fintech platforms.
+- Designed REST APIs for payments, digital wallets, and HR integrations supporting high-volume transactions.
+- Used React and TypeScript to develop responsive dashboards and reusable UI components.
+- Implemented JWT authentication, role-based access logic, and session management aligned with OWASP standards.
+- Improved backend response time by optimizing database queries and reducing unnecessary API calls.
+- Worked closely with product owners to translate business needs into technical requirements.
+- Set up CI/CD workflows and supported deployments on AWS using EC2, S3, and IAM.
+- Enhanced data accuracy and reliability by refining validation rules and API contracts.
+- Collaborated with QA and DevOps to streamline release cycles and lower production issues.
+- Integrated third-party payment services and internal HR systems into existing architecture.
+- Wrote technical documentation, API specs, and release notes for engineering and operations teams.
+- Partnered with UI/UX teams to ensure seamless flows across desktop and mobile experiences.
+<img width="468" height="232" alt="image" src="https://github.com/user-attachments/assets/285cc6bb-d6c9-4f61-86f8-680a612fcf01" />
+ 
 
-**🧑‍💻 Web Development Intern — Sree Vidyanikethan Engineering College (Jan 2020 – Mar 2022, Tirupati, India)**  
-- Built an HR portal for attendance and leave management using **JavaScript**, **HTML**, and **SQL**.  
-- Reduced HR data lookup times by 25% through optimized SQL queries.  
-- Digitized manual workflows, migrating paper-based processes to a centralized web system.  
+
+  
+
+**🧑‍💻 Full Stack Developer — Net Solutions (Jan 2020 – Jan 2022, Punjab, India)**  
+-	Built frontend modules using JavaScript, HTML5, CSS3, and React to support client applications.
+-	Developed backend logic using Node.js and integrated REST APIs into various interfaces.
+-	Improved database performance by optimizing SQL queries and reducing query execution time.
+-	Designed reusable UI components that increased development speed for multiple teams.
+-	Worked in Agile sprints, participating in planning, task breakdown, and code reviews.
+-	Identified UI bugs and application issues, delivering quick, effective fixes across projects.
+-	Collaborated with designers and backend teams to refine system flows and improve usability.
+-	Assisted in building backend features supporting authentication, form validation, and workflows.
+-	Helped deploy builds to staging environments while validating features before client demos.
+-	Guided junior developers on debugging, Git best practices, and architecture patterns.
+-	Enhanced reliability of applications by refining error-handling mechanisms.
+-	Documented feature behaviour, workflows, and implementation details for knowledge transfer.
+<img width="468" height="181" alt="image" src="https://github.com/user-attachments/assets/31177649-ef57-4b50-b2c1-bb88eab0bb09" />
+  
 
 ---
 
