@@ -82,7 +82,7 @@ Currently pursuing my **MS in Computer Science** at the **University of New Have
 -	Wrote documentation covering engineering best practices, testing approaches, and SDLC guidelines.
 -	Collaborated with professors to refine project rubrics and technical expectations.
 -	Supported classroom labs by reviewing designs, API structures, and frontend components.
-<img width="468" height="244" alt="image" src="https://github.com/user-attachments/assets/2ea2178d-68fe-4c1a-b2b0-d91bb50a2afe" />
+
 
 **💻 Full Stack Developer — Zaggle Prepaid Ocean Services Pvt Ltd (Feb 2022 – Aug 2023, Hyderabad, India)**  
 - Built secure backend services using Java Spring Boot, Ruby on Rails, Node.js, and PostgreSQL for fintech platforms.
@@ -97,7 +97,7 @@ Currently pursuing my **MS in Computer Science** at the **University of New Have
 - Integrated third-party payment services and internal HR systems into existing architecture.
 - Wrote technical documentation, API specs, and release notes for engineering and operations teams.
 - Partnered with UI/UX teams to ensure seamless flows across desktop and mobile experiences.
-<img width="468" height="232" alt="image" src="https://github.com/user-attachments/assets/285cc6bb-d6c9-4f61-86f8-680a612fcf01" />
+
  
 
 
@@ -116,7 +116,7 @@ Currently pursuing my **MS in Computer Science** at the **University of New Have
 -	Guided junior developers on debugging, Git best practices, and architecture patterns.
 -	Enhanced reliability of applications by refining error-handling mechanisms.
 -	Documented feature behaviour, workflows, and implementation details for knowledge transfer.
-<img width="468" height="181" alt="image" src="https://github.com/user-attachments/assets/31177649-ef57-4b50-b2c1-bb88eab0bb09" />
+
   
 
 ---
