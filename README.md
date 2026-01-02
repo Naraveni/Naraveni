@@ -149,15 +149,7 @@ GPA: 3.87 | 100% Scholarship | Best Academic Performance
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naraveni&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naraveni&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 📨 Hire Me
 
